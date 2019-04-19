@@ -1,6 +1,7 @@
 absl-py==0.2.0
 astor==0.6.2
 bleach==1.5.0
+certifi==2018.10.15
 click==6.7
 Flask==1.0.2
 gast==0.2.0
@@ -10,7 +11,7 @@ h5py==2.7.1
 html5lib==0.9999999
 httplib2==0.11.3
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.10.1
 Keras==2.1.6
 Markdown==2.6.11
 MarkupSafe==1.0
@@ -18,12 +19,13 @@ numpy==1.14.3
 oauth2client==4.1.2
 pandas==0.22.0
 Pillow==5.1.0
+pipenv==2018.10.13
 protobuf==3.5.2.post1
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 python-dateutil==2.7.2
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.1
 rsa==3.4.2
 scipy==1.0.1
 six==1.11.0
@@ -31,4 +33,6 @@ tensorboard==1.8.0
 tensorflow==1.8.0
 termcolor==1.1.0
 uritemplate==3.0.0
+virtualenv==16.0.0
+virtualenv-clone==0.4.0
 Werkzeug==0.14.1
